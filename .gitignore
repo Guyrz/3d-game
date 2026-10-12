@@ -1,0 +1,8 @@
+# Build output
+cmake-build-*/
+build/
+out/
+# IDE files
+.idea/
+.vs/
+*.user
