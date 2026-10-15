@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 add_executable(hello exercises/ex0/hello.cpp)
+add_executable(debug_demo exercises/ex0/debug_demo.cpp)
