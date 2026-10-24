@@ -8,3 +8,4 @@ add_compile_options(/W4) #sets stricter warnings
 add_executable(hello exercises/ex0/hello.cpp)
 add_executable(debug_demo exercises/ex0/debug_demo.cpp)
 add_executable(ex1_q1 exercises/ex1/q1.cpp)
+add_executable(ex1_q2 exercises/ex1/q2.cpp)
